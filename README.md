@@ -1,3 +1,3 @@
-# weigo-redfancybooks
+# weigo-red-fancy-books
 cooming soon - books of weigo laboratories creative products developments case study and discovery and tips...
 ![Alt text](https://github.com/weigo495959/weigo-redfancybooks/blob/main/weigcredbooks.png)
