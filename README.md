@@ -1,2 +1,3 @@
 # weigo-redfancybooks
 cooming soon - books of weigo laboratories creative products developments case study and discovery and tips...
+![Alt text](https://example.com/path/to/image.png)
